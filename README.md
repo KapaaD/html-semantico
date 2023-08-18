@@ -6,3 +6,17 @@ Texto em **negrito** com asteriscos.
 Texto em __negrito__ com underscore.
 Texto em *itáligo* com asteriscos.
 Texto em _itáligo_ com underscore.
+
+Lista de compras
+* Arroz japones
+  * Mojeta
+  * Fujita
+Lista de tarefas:
+1. Limpar a luminaria do corredor
+3. Parafusar a tomada do quarto
+4. Lustrar piano
+
+![Cachorro].(https://pipz.com/static/images/blog/eddie.png)
+
+> Não faltem!
+> (João Marcos)
