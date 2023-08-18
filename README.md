@@ -20,3 +20,22 @@ Lista de tarefas:
 
 > Não faltem!
 > (João Marcos)
+
+Este é um medoto `console.log()` do javascript.
+
+llllllllllllll
+
+mmmmmmmmmmmmmm
+
+```javascript
+function selecionaElemento() {
+    const body = document.querySelector('body');
+    }
+```
+
+Frutas  |  Doces  |  Salgados 
+:------  | :------:  |  -------:
+banana  | chocolate  |  coxinha
+maçã  |  bala Juquinha  |  esfiha
+uva  |  bombom  | tapioca  
+
