@@ -39,3 +39,4 @@ banana  | chocolate  |  coxinha
 maçã  |  bala Juquinha  |  esfiha
 uva  |  bombom  | tapioca  
 
+comando para salvar quando ter erro : git config --unset commit.gpgSign
