@@ -5,7 +5,7 @@ margin-right:50px;
 margin-bottom:20px;
 margin-left:50px;
 margin: 20px 50px 20px 50px;
-background:rgb(140, 171, 255);
+background:rgb(68, 119, 206);
 }
 p{
     line-height: 1,2;
@@ -16,7 +16,7 @@ p{
     color:rgb(19, 16, 71);
     line-height: 0;
     font-size: 12pt;
-    background:rgb(68, 119, 206);
+    background:rgb(140, 171, 255);
     padding: 12px;
     border-radius: 20px;
 } 
@@ -38,5 +38,11 @@ p{
     color:grey;
     font-weight: bold;
     font-style: italic; 
+    font-size: 12pt;
+}
+.super_links{
+    color:black;
+    line-height: 1;
+    font-weight: bold;
     font-size: 12pt;
 }
