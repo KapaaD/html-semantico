@@ -10,7 +10,7 @@ background:rgb(68, 119, 206);
 p{
     line-height: 1,2;
     text-align: justify;
-    
+    margin: 0px;
 }
 .titulo_de_artigo{
     color:rgb(19, 16, 71);
@@ -19,6 +19,7 @@ p{
     background:rgb(140, 171, 255);
     padding: 12px;
     border-radius: 20px;
+    margin: 0px;
 } 
 .titulo_de_pagina {
     color:rgb(19, 16, 71);
