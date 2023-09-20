@@ -1,0 +1,55 @@
+body {
+    color: black;
+margin-top: 20px;
+margin-right:50px;
+margin-bottom:20px;
+margin-left:50px;
+margin: 20px 50px 20px 50px;
+background:rgb(68, 119, 206);
+}
+article p:first-of-type{
+    padding: 12px;
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+} 
+article p{
+    color:rgb(19, 16, 71);
+    line-height: 0;
+    font-size: 12pt;
+    background:rgb(140, 171, 255);
+    padding: 12px;
+    border-radius: 0;
+    margin: 0px;
+    text-align: justify;
+} 
+article p:last-of-type{
+    padding: 12px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;   
+} 
+.titulo_de_pagina {
+    color:rgb(19, 16, 71);
+    line-height: 2;
+    font-weight: bold;
+    font-size: 24pt;
+    font-family: arial, helvetica, sans-serif, 
+}
+.sup_titulo_da_pagina {
+    color:black;
+    line-height: 1,5;
+    font-weight: bold;
+    font-size: 20pt;
+}
+
+.autor_do_arquivo{
+    color:grey;
+    font-weight: bold;
+    font-style: italic; 
+    font-size: 12pt;
+}
+.super_links{
+    color:black;
+    line-height: 1;
+    font-weight: bold;
+    font-size: 12pt;
+}
